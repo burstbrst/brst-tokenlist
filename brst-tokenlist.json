@@ -1,0 +1,37 @@
+{
+  "name": "Burst Token List",
+  "logoURI": "https://i.postimg.cc/tCQv28SP/IMG-0383.jpg",
+  "keywords": [
+    "burst",
+    "brst",
+    "solana",
+    "utility"
+  ],
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Tokens used to power platforms, apps, or ecosystems."
+    }
+  },
+  "timestamp": "2025-04-08T12:00:00Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "D63ujYwWV6kCmty7zEFZvZhz7FUfcvCUpnn2PDMAnuAm",
+      "symbol": "BRST",
+      "name": "Burst",
+      "decimals": 9,
+      "logoURI": "https://i.postimg.cc/tCQv28SP/IMG-0383.jpg",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://yourwebsite.com",
+        "twitter": "https://twitter.com/yourhandle",
+        "discord": "https://discord.gg/yAWWRrC5",
+        "description": "Burst (BRST) is a utility token on the Solana blockchain powering decentralized tools, community rewards, and long-term growth within its ecosystem.",
+        "explorer": "https://solscan.io/token/D63ujYwWV6kCmty7zEFZvZhz7FUfcvCUpnn2PDMAnuAm"
+      }
+    }
+  ]
+}

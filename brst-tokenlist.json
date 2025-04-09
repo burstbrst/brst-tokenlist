@@ -1,6 +1,6 @@
 {
   "name": "Burst Token List",
-  "logoURI": "https://i.postimg.cc/tCQv28SP/IMG-0383.jpg",
+  "logoURI": "https://github.com/burstbrst/brst-tokenlist/blob/43c6a067ffbd2a9dbc8f5ff572f535dcd0b85a0a/IMG_0383.jpeg",
   "keywords": [
     "burst",
     "brst",
@@ -21,7 +21,7 @@
       "symbol": "BRST",
       "name": "Burst",
       "decimals": 9,
-      "logoURI": "https://i.postimg.cc/tCQv28SP/IMG-0383.jpg",
+      "logoURI": "https://github.com/burstbrst/brst-tokenlist/blob/43c6a067ffbd2a9dbc8f5ff572f535dcd0b85a0a/IMG_0383.jpeg",
       "tags": [
         "utility-token"
       ],

@@ -1,7 +1,7 @@
 {
   "name": "Burst",
   "symbol": "BRST",
-  "uri": "https://github.com/burstbrst/brst-tokenlist/blob/62531a34cf130319b73736180764f1cef992163f/brst-metadata.json",
+  "uri": "https://github.com/burstbrst/brst-tokenlist/blob/main/brst-metadata.json",
   "seller_fee_basis_points": 0,
   "creators": null
 }

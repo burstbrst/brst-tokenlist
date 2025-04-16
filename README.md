@@ -2,7 +2,7 @@
 
 This repo hosts the Solana-compatible token list for the Burst (BRST) utility token.
 
-- Website: https://yourwebsite.com
+- Website: https://burstdefi.framer.ai
 - Token: BRST
 - Chain ID: 101 (Solana)
 - Token Address: D63ujYwWV6kCmty7zEFZvZhz7FUfcvCUpnn2PDMAnuAm
